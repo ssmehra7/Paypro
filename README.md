@@ -79,7 +79,4 @@ PayPro is a secure and scalable payment management system designed for smooth tr
 
 ---
 
-## License
-This project is licensed under the [MIT License](LICENSE).  
 
-Happy coding! 🚀
